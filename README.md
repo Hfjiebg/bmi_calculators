@@ -17,16 +17,16 @@ The code follows a tutorial by Alex the Analyst and is designed to teach basic p
 
 ### - US Units Input:
 
-* Weight: 150 lbs
-* Height: 65 inches
-* BMI: 24.96
+* *Weight*: 150 lbs
+* *Height*: 65 inches
+* *BMI*: 24.96
 
 ### - Metric Units Input:
 
-* Weight: 68 kg
-* Height: 1.75 m
-* BMI: 22.2
+* *Weight*: 68 kg
+* *Height*: 1.75 m
+* *BMI*: 22.2
 
-This project is based on a tutorial by Alex the Analyst. (https://www.youtube.com/@AlexTheAnalyst)
+This project is based on a tutorial by _Alex the Analyst_. (https://www.youtube.com/@AlexTheAnalyst)
 
 Special thanks for providing beginner-friendly content and inspiration for this project.
