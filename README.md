@@ -27,6 +27,6 @@ The code follows a tutorial by Alex the Analyst and is designed to teach basic p
 * *Height*: 1.75 m
 * *BMI*: 22.2
 
-This project is based on a tutorial by _Alex the Analyst_. (https://www.youtube.com/@AlexTheAnalyst)
+This project is based on **the tutorial: Building a BMI Calculator with Python (using US units)** https://lnkd.in/eQ-wYkkr by **_Alex the Analyst_**. (https://www.youtube.com/@AlexTheAnalyst)
 
 Special thanks for providing beginner-friendly content and inspiration for this project.
